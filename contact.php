@@ -1,3 +1,4 @@
 <?php
 
-echo 'Page contact' ?>
+echo 'Page contact';
+echo 'kldsfklqmfkqslmfqs';
